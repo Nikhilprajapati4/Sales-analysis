@@ -6,6 +6,10 @@ After loading the data into PostgreSQL, SQL was used to explore the database and
 The summary table was then imported back into PostgreSQL as a separate analytical table. This table served as the primary dataset for further data cleaning and exploratory analysis using Python. During preprocessing, missing values were handled, duplicate records were removed, and data quality issues were corrected to prepare a clean dataset for visualization.
 Finally, the cleaned data was used to create an interactive Tableau dashboard that presents key performance indicators (KPIs), sales trends, customer insights, regional performance, product category analysis, and delivery performance. The dashboard enables stakeholders to explore business performance through dynamic filters and visual reports.
 ---
+<p align="center">
+<img src="dashboard/Screenshot 2026-08-04 115641.png" width="900">
+</p>
+
 # Project Workflow
 ### 1. Data Collection
 * Downloaded the Olist Brazilian E-commerce dataset in CSV format.
